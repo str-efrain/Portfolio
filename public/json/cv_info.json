@@ -1,0 +1,210 @@
+{
+  "profileSummary": [
+    {
+      "label": "Date of birth",
+      "value": "January 2007"
+    },
+    {
+      "label": "Nationality",
+      "value": "Belgian"
+    },
+    {
+      "label": "School",
+      "value": "VIVES Kortrijk"
+    },
+    {
+      "label": "Program",
+      "value": "Bachelor Applied Informatics"
+    },
+    {
+      "label": "Specialization",
+      "value": "Software Development"
+    },
+    {
+      "label": "Average diploma score",
+      "value": "79.85%"
+    }
+  ],
+  "projects": [
+    {
+      "title": "Cyber-awareness experience",
+      "context": "2nd place - ConXioN Hackathon 2026",
+      "description": "A three-day hackathon project for an interactive cyber-awareness experience designed for the ConXioN Experience Center in Waregem.",
+      "tags": [
+        "Teamwork",
+        "Security awareness",
+        "Rapid prototyping"
+      ]
+    },
+    {
+      "title": "Programming competition practice",
+      "context": "7th place - Vlaamse Programmeerwedstrijd 2026",
+      "description": "Solved algorithmic programming challenges in the bachelor student category at PXL Hogeschool Hasselt.",
+      "tags": [
+        "Problem solving",
+        "Algorithms",
+        "Competitive programming"
+      ]
+    },
+    {
+      "title": "Practice Enterprise",
+      "context": "VIVES Kortrijk",
+      "description": "Coursework focused on practical software development in groups of 4-5 students, simulating a real-world software development environment.",
+      "tags": [
+        "Angular",
+        "Agile Scrum",
+        "Git & GitHub"
+      ]
+    }
+  ],
+  "skills": [
+    "Angular",
+    "TypeScript",
+    "JavaScript",
+    "C# & .NET",
+    "Java",
+    "Swift",
+    "SQL & LINQ",
+    "REST APIs",
+    "Entity Framework",
+    "Identity Framework",
+    "MongoDB",
+    "PostgreSQL",
+    "SQL Server",
+    "Azure",
+    "Linux",
+    "Git & GitHub"
+  ],
+  "tools": [
+    "Postman",
+    "Swagger",
+    "NPM",
+    "Render",
+    "Combell",
+    "IntelliJ",
+    "WebStorm",
+    "Visual Studio Code",
+    "Visual Studio",
+    "Xcode",
+    "Windows Server",
+    "Microsoft 365",
+    "Microsoft Teams"
+  ],
+  "education": {
+    "courses": [
+      "Full Stack Development",
+      "Front-End Development",
+      "Server Management",
+      "Advanced Programming",
+      "Problem Solving",
+      "Data Analysis",
+      "Operating Systems",
+      "Node.js Development",
+      "Analysis & Design",
+      "Design Patterns",
+      "Professional and International Communication",
+      "Ethics",
+      "iOS Development",
+      "Databases",
+      "Business Management",
+      "Excel",
+      "Linux",
+      "Systems Management",
+      "Computer Systems",
+      "Web Development",
+      "Fundamentals of Programming"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Hospitality employee",
+      "place": "Martiko Oudenaarde",
+      "period": "Mar 2026 - present",
+      "details": [
+        "Serving food and drinks in a customer-facing role."
+      ]
+    },
+    {
+      "role": "Student job",
+      "place": "NMBS Stations Management Gent",
+      "period": "Summer 2025",
+      "details": [
+        "Checked stations managed by the Gent depot."
+      ]
+    },
+    {
+      "role": "Hospitality employee",
+      "place": "Markt 30 Oudenaarde",
+      "period": "May 2023 - Apr 2025",
+      "details": [
+        "Served customers and prepared drinks."
+      ]
+    },
+    {
+      "role": "Activity guide",
+      "place": "The Outsider Vlaamse Ardennen",
+      "period": "Summer 2024 and internship in Mar 2024",
+      "details": [
+        "Guided groups of different ages through sport activities and helped customers enjoy a safe, active day."
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "name": "Dutch",
+      "level": 5
+    },
+    {
+      "name": "English",
+      "level": 5
+    },
+    {
+      "name": "French",
+      "level": 4
+    },
+    {
+      "name": "Spanish",
+      "level": 4
+    },
+    {
+      "name": "Portuguese",
+      "level": 2
+    },
+    {
+      "name": "Ukrainian",
+      "level": 1
+    }
+  ],
+  "strengths": [
+    "Independent",
+    "Eager to learn",
+    "Social",
+    "Helpful",
+    "Leadership-minded",
+    "Comfortable speaking to groups"
+  ],
+  "extra": {
+    "title": "Driver's license B",
+    "description": "Obtained in August 2025."
+  },
+  "contact": {
+    "links": [
+      {
+        "label": "efrainmouton@gmail.com",
+        "href": "mailto:efrainmouton@gmail.com"
+      },
+      {
+        "label": "GitHub",
+        "href": "https://github.com/str-efrain"
+      },
+      {
+        "label": "LinkedIn",
+        "href": "https://www.linkedin.com/in/efrain-mouton-5a52262a1/"
+      },
+      {
+        "label": "efrain-mouton.be",
+        "href": "https://www.efrain-mouton.be"
+      }
+    ]
+  }
+}
