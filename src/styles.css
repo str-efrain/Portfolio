@@ -306,6 +306,11 @@ dd {
   padding: 20px;
 }
 
+.project-link {
+  align-self: flex-start;
+  margin-top: 16px;
+}
+
 .project-card p,
 .experience-list p {
   color: #315d88;

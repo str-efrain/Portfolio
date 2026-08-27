@@ -74,6 +74,10 @@
       "title": "Vinyl Collection Management Backend",
       "context": "NodeJS Development course",
       "description": "Created a backend for managing a vinyl collection as an exam project for the NodeJS Development course.",
+      "link": {
+        "label": "View project",
+        "href": "https://vinylvault-api.efrain-mouton.be"
+      },
       "tags": [
         "MongoDB",
         "Node.js",

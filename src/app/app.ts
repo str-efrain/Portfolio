@@ -6,6 +6,7 @@ interface Project {
   context: string;
   description: string;
   tags: string[];
+  link?: Link;
 }
 
 interface Experience {
