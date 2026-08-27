@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="EM monogram">
+  <rect width="64" height="64" rx="12" fill="#18231f"/>
+  <path d="M12 44V20h17v5h-11v4.5h10v5h-10V39h11v5H12Z" fill="#f6f2ea"/>
+  <path d="M34 44V20h5.3L47 32.5 54.7 20H60v24h-5.8V31.5L48.8 40h-3.6l-5.4-8.5V44H34Z" fill="#f6f2ea"/>
+  <path d="M12 50h40" stroke="#b95e32" stroke-width="4" stroke-linecap="round"/>
+</svg>
