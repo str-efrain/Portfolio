@@ -22,7 +22,7 @@
     },
     {
       "label": "Average diploma score",
-      "value": "79.85%"
+      "value": "76.84%"
     }
   ],
   "projects": [
@@ -54,6 +54,32 @@
         "Angular",
         "Agile Scrum",
         "Git & GitHub"
+      ]
+    },
+    {
+      "title": "Champions League Ticketing Platform",
+      "context": "Full Stack Development course",
+      "description": "Developed a ticketing platform for the Champions League as an exam project for the Full Stack Development course.",
+      "tags": [
+        ".NET",
+        "C#",
+        "Git & GitHub",
+        "Entity Framework",
+        "SignalR",
+        "SQL Server",
+        "Azure"
+      ]
+    },
+    {
+      "title": "Vinyl Collection Management Backend",
+      "context": "NodeJS Development course",
+      "description": "Created a backend for managing a vinyl collection as an exam project for the NodeJS Development course.",
+      "tags": [
+        "MongoDB",
+        "Node.js",
+        "Git & GitHub",
+        "REST APIs",
+        "Mongoose"
       ]
     }
   ],
@@ -179,6 +205,10 @@
     "Independent",
     "Eager to learn",
     "Social",
+    "Flexible",
+    "Team player",
+    "Communicative",
+    "Organized",
     "Helpful",
     "Leadership-minded",
     "Comfortable speaking to groups"
