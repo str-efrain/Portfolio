@@ -1,0 +1,153 @@
+CANVA CV — EFRAIN MOUTON
+Prepared from the current portfolio source on 18 November 2026.
+
+DESIGN BRIEF
+Create an editable, two-page A4 portrait CV in English, matching the existing
+portfolio. Use live text, editable shapes, and clickable contact links.
+Background: warm cream #F6F2EA. Primary text: #18231F. Green: #176B54.
+Dark green: #0F4D3C. Muted text: #617069. Terracotta accents: #B95E32.
+Fine borders: #D9CFBF. Pale green skill labels: #E7EEE9.
+Use a clear sans-serif typeface with bold headings and small uppercase section
+labels. Body text should be at least 10 pt. Preserve generous spacing and avoid
+splitting entries across pages. No charts, invented metrics, or decorative icons.
+Use the existing portrait from public/images/portrait.jpg; do not generate one.
+Keep the name prominent. Use a narrow dark-green sidebar for the portrait,
+contact information, languages, personal strengths, and additional details.
+Use the wider cream content column for the profile, education, skills, and
+projects. Page two continues the projects and includes achievements and work.
+Keep the reading order clear. Include discreet page numbers.
+If content needs more room, shorten tool lists before reducing body text size.
+Do not invent a phone number, employer, project date, technology, or qualification.
+Skills mentioned within projects indicate project context, not proficiency ratings.
+Language scores below are the portfolio's own ratings, not CEFR levels.
+
+PAGE 1 — HEADER
+Efrain Mouton
+Applied Informatics Student | Software Development
+
+CONTACT
+Oudenaarde, Belgium
+efrainmouton@gmail.com
+Portfolio: www.efrain-mouton.be
+GitHub: github.com/str-efrain
+LinkedIn: linkedin.com/in/efrain-mouton-5a52262a1
+
+Clickable destinations:
+mailto:efrainmouton@gmail.com
+https://www.efrain-mouton.be
+https://github.com/str-efrain
+https://www.linkedin.com/in/efrain-mouton-5a52262a1/
+
+PROFILE
+Applied Informatics student at VIVES Kortrijk, specializing in Software
+Development. I enjoy building practical applications, learning new technologies,
+and turning technical ideas into useful software. Seeking a software development
+internship where I can contribute to real projects and grow through teamwork,
+feedback, and hands-on delivery.
+
+EDUCATION
+Bachelor Applied Informatics
+VIVES Kortrijk | 2024–present
+Specialization: Software Development | Expected graduation: 2027
+Selected completed courses: Full Stack Development, Front-End Development,
+Node.js Development, iOS Development, Advanced Programming, Design Patterns,
+Databases, Analysis & Design, Problem Solving, and Linux.
+
+TECHNICAL SKILLS
+Languages & frameworks: Angular, TypeScript, JavaScript, C# & .NET, Java, Swift.
+Data & APIs: SQL & LINQ, REST APIs, Entity Framework, Identity Framework,
+MongoDB, PostgreSQL, SQL Server.
+Platforms & collaboration: Azure, Linux, Git & GitHub.
+Tools: Postman, Swagger, NPM, Render, Combell, IntelliJ, WebStorm,
+Visual Studio Code, Visual Studio, Xcode, Windows Server, Microsoft 365,
+Microsoft Teams.
+
+CURRENT PROJECTS
+Garage Customer Portal | In progress
+DevOps, Cross-Platform Development & Java Backend Development
+Building a customer portal for a garage as a shared project across three courses.
+Focus: DevOps, cross-platform development, Java backend development.
+
+TriPlan | In progress
+Android Development
+Developing an Android app for triathletes to plan and track training sessions
+based on the weather and available time.
+Focus: Android development, training planning, Weather API.
+
+RunSafe | Practice Enterprise, VIVES Kortrijk
+Team project supporting a VIVES research initiative that maps runners'
+experiences of safe and unsafe places in Flemish cities. RunSafe connects
+runners, researchers, and local authorities to improve safety in public spaces.
+The project website is completed and live: runsafe.be.
+Technologies & workflow: Angular, React Native, REST APIs, MongoDB,
+Agile Scrum, Git & GitHub.
+Link: https://runsafe.be
+
+SIDEBAR — LANGUAGES
+Dutch 5/5 | English 5/5
+French 4/5 | Spanish 4/5
+Portuguese 2/5 | Ukrainian 1/5
+Caption: Self-assessed proficiency.
+
+SIDEBAR — PERSONAL DETAILS
+Belgian | Born January 2007
+Driver's license B, obtained August 2025.
+
+PAGE 2 — HEADER
+Efrain Mouton
+Projects, achievements & experience
+
+ADDITIONAL PROJECTS
+Champions League Ticketing Platform
+Full Stack Development
+Developed a Champions League ticketing platform as an exam project.
+Technologies: C#, .NET, Entity Framework, SignalR, SQL Server, Azure,
+Git & GitHub.
+
+Vinyl Collection Management Backend
+NodeJS Development
+Created a backend for managing a vinyl collection as an exam project.
+Technologies: Node.js, MongoDB, Mongoose, REST APIs, Git & GitHub.
+Link: https://vinylvault-api.efrain-mouton.be
+
+COMPETITIONS & PROFESSIONAL DEVELOPMENT
+2nd place | ConXioN Hackathon 2026
+Built an interactive cyber-awareness experience during a three-day team
+hackathon for the ConXioN Experience Center in Waregem.
+Focus: teamwork, security awareness, rapid prototyping.
+
+7th place | Vlaamse Programmeerwedstrijd 2026
+Solved algorithmic challenges in the bachelor student category at
+PXL Hogeschool Hasselt.
+Focus: problem solving, algorithms, competitive programming.
+
+Devoxx Antwerp
+Attended a major Java conference.
+
+WORK EXPERIENCE
+Hospitality employee | Martiko Oudenaarde
+Mar 2026–present
+Serving food and drinks in a customer-facing role.
+
+Student job | NMBS Stations Management Gent
+Summer 2025
+Checked stations managed by the Gent depot.
+
+Hospitality employee | Markt 30 Oudenaarde
+May 2023–Apr 2025
+Served customers and prepared drinks.
+
+Activity guide | The Outsider Vlaamse Ardennen
+Summer 2024; internship in Mar 2024
+Guided groups of different ages through sport activities and helped customers
+enjoy a safe, active day.
+
+SIDEBAR — PERSONAL STRENGTHS
+Independent, eager to learn, social, flexible, team player, communicative,
+organized, helpful, leadership-minded, comfortable speaking to groups.
+
+SOURCE NOTES
+Primary source: public/json/cv_info.json and src/app/app.html.
+Style source: src/styles.css.
+Portrait source: public/images/portrait.jpg.
+This file is a complete content and layout brief. It is not a Canva design.

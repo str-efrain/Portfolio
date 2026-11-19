@@ -45,6 +45,10 @@ interface CvInfo {
   extra: {
     title: string;
     description: string;
+    conference?: {
+      title: string;
+      description: string;
+    };
   };
   contact: {
     links: Link[];

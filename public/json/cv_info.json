@@ -27,6 +27,26 @@
   ],
   "projects": [
     {
+      "title": "Garage Customer Portal",
+      "context": "DevOps, Cross-Platform Development & Java Backend Development - In progress",
+      "description": "Currently building a customer portal for a garage as a shared project across the DevOps, Cross-Platform Development, and Java Backend Development courses.",
+      "tags": [
+        "DevOps",
+        "Cross-platform development",
+        "Java Backend"
+      ]
+    },
+    {
+      "title": "TriPlan",
+      "context": "Android Development course - In progress",
+      "description": "Currently developing an Android app for triathletes that helps plan and track training sessions based on the weather and available time.",
+      "tags": [
+        "Android Development",
+        "Training planning",
+        "Weather API"
+      ]
+    },
+    {
       "title": "Cyber-awareness experience",
       "context": "2nd place - ConXioN Hackathon 2026",
       "description": "A three-day hackathon project for an interactive cyber-awareness experience designed for the ConXioN Experience Center in Waregem.",
@@ -47,13 +67,20 @@
       ]
     },
     {
-      "title": "Practice Enterprise",
-      "context": "VIVES Kortrijk",
-      "description": "Coursework focused on practical software development in groups of 4-5 students, simulating a real-world software development environment.",
+      "title": "RunSafe",
+      "context": "Practice Enterprise - VIVES Kortrijk",
+      "description": "A team project for Practice Enterprise supporting RunSafe, a VIVES research initiative that maps runners' experiences of safe and unsafe places in Flemish cities. The project connects runners, researchers, and local authorities to help improve safety in public spaces. The project website is completed and live.",
+      "link": {
+        "label": "More info about RunSafe",
+        "href": "https://runsafe.be"
+      },
       "tags": [
         "Angular",
         "Agile Scrum",
-        "Git & GitHub"
+        "Git & GitHub",
+        "REST APIs",
+        "MongoDB",
+        "React Native"
       ]
     },
     {
@@ -219,7 +246,11 @@
   ],
   "extra": {
     "title": "Driver's license B",
-    "description": "Obtained in August 2025."
+    "description": "Obtained in August 2025.",
+    "conference": {
+      "title": "Devoxx Antwerp",
+      "description": "Attended Devoxx Antwerp, a major Java conference."
+    }
   },
   "contact": {
     "links": [

@@ -155,6 +155,10 @@
       <p class="eyebrow">Extra</p>
       <h3>{{ cv().extra.title }}</h3>
       <span>{{ cv().extra.description }}</span>
+      @if (cv().extra.conference; as conference) {
+        <h3 class="extra-conference">{{ conference.title }}</h3>
+        <span>{{ conference.description }}</span>
+      }
     </article>
   </section>
 

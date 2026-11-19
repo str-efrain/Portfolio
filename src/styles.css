@@ -436,6 +436,10 @@ dd {
   padding: 20px;
 }
 
+.extra-conference {
+  margin-top: 20px;
+}
+
 .contact {
   align-items: center;
   background: #18231f;
